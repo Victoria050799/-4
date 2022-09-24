@@ -1,0 +1,119 @@
+@import url('https://fonts.googleapis.com/css2?family=League+Spartan:wght@100;200;300;400;500;600;700;800;900&display=swap');
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'League Spartan', sans-serif;
+}
+.zx{ width: 496px;
+    height: 750px;
+    background: #F8F8F8;
+    padding: 65px 2px;
+    border-radius: 12px;
+    
+    
+}
+
+body {
+    padding: 0px 100%;
+}
+.one{ display: flex;
+align-items: center;
+justify-content: center;
+width: 1440px;
+height: 900px;
+background: #F8F8F8;
+border-radius: 12px;
+padding: 4px 240px 133px 176px;
+}
+.one1{display: flex;
+    justify-content: space-between;}
+h1{    font-family:'League Spartan';
+    margin-bottom: 2rem;
+    font-size: 250px;
+    font-weight: 300;
+}
+.q{
+    margin-bottom: 2rem;
+    font-size: 32px;
+    font-weight: 300;
+    line-height: 155%;
+
+}
+.b2{
+    background: #fff;
+    color: #000;
+    font-size: 32px;
+    font-weight: 300;
+}
+    
+.w {
+    display: flex;
+    margin-bottom: 2rem;
+    padding: 25px 65px 25px 65px;
+    font-size: 32px;
+    font-weight: 300;
+    background:#161515; ;
+    color: #fff;
+    cursor: pointer;
+    border: 1px solid rgb(76, 76, 76);
+    transition: all ease 0.4s;
+}
+.two{
+    display: table;
+    align-items: center;
+    justify-content: center;
+    width: 1440px;
+    height: 900px;
+    background: #F8F8F8;
+    border-radius: 12px;
+    padding: 4px 240px 133px 176px;
+}
+.re{ font-size: 32px;
+    font-weight: 400;
+    line-height: 186%;
+   }
+   .two2{
+    margin-top: 6rem;
+    margin-bottom: 2rem;
+    font-size: 24px;
+    font-weight: 300;}
+    h2{
+ margin-bottom: 2rem;
+ font-size: 72px;
+ font-weight: 400;
+}
+.qw,.wq
+{margin-top: 2rem;
+    font-size: 32px;
+    font-weight: 300;
+    line-height: 155%;
+    width: 531px;
+    text-align: center;
+    margin-bottom: 8rem;}
+.three{
+    display: table-row;
+    align-items: center;
+    justify-content: center;
+    width: 1440px;
+    height: 900px;
+    background: #F8F8F8;
+    border-radius: 12px;
+    padding: 4px 240px 133px 176px;}
+    .sa{
+        font-size: 32px;
+    font-weight: 400;
+    line-height: 186%;}
+    .b4{ font-size: 32px;
+        font-weight: 400;
+        line-height: 186%;
+    }
+    
+    .wa{margin-top: 4rem;
+        font-size: 24px;
+        font-weight: 300;
+        line-height: 170%;
+        text-align: center;
+        width: 515px;
+        margin-bottom: 8rem;
+    }
